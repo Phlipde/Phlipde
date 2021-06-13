@@ -58,6 +58,15 @@
 </details>
 
 <details>
+  <summary>📊 Other Stats</summary>
+  <!--START_SECTION:waka-->
+  
+  
+  
+<!--END_SECTION:waka-->
+</details>
+
+<details>
   <summary>🧭 Some Dumb Stuff...</summary>
   <br />
   <img src="https://img.shields.io/twitch/status/phlipde?style=flat-square" />
