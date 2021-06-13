@@ -1,7 +1,6 @@
 <h1 align="center"> Hey, I'm Philipp </h1>
 <h6 align="center"> aka. Phlipde </h6>
-
-<br />
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
 
 ## 👤 About Me:
 - 👋 I'm a german student, I code in my freetime
@@ -29,15 +28,18 @@
 
 <details>
   <summary>🗣 Languages I use:</summary>
+  <br />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   
+  <br />
 </details>
 
 <details>
   <summary>👩‍💻 My Tools</summary>
+  <br />
   <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
@@ -52,12 +54,14 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   
+  <br />
 </details>
 
 <details>
   <summary>🧭 Some Dumb Stuff...</summary>
+  <br />
   <img src="https://img.shields.io/twitch/status/phlipde?style=flat-square" />
-  
+  <br />
 </details>
 
 [discord]: discord:///users/547856031229935694
