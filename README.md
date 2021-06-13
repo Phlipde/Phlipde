@@ -1,4 +1,4 @@
-<h1 align="center"> Hey, I'm Philipp </h1>
+<h1 align="center" color="#0094F5"> Hey, I'm Philipp </h1>
 <h6 align="center"> aka. Phlipde </h6>
 
 <br />
