@@ -1,6 +1,8 @@
 <h1 align="center"> Hey, I'm Philipp </h1>
 <h6 align="center"> aka. Phlipde </h6>
 
+<br />
+
 ## 👤 About Me:
 - 👋 I'm a Student and I code in my Freetime
 - 📖 I'm Learning a lots of things
