@@ -27,6 +27,11 @@
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phlipde&theme=algolia&hide_border=true)
 
+<details>
+  <summary>🧭 Some Dumb Stuff...</summary>
+  ![Twitch Status](https://img.shields.io/twitch/status/phlipde?style=flat-square)
+  
+</details>
 
 [discord]: discord:///users/547856031229935694
 [youtube]: https://www.youtube.com/channel/UC7jgTSm-klMyWXtE59xOG-A/
