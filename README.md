@@ -18,9 +18,9 @@
 
 ## 📊 Some Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phlipde&show_icons=true&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phlipde&show_icons=true&theme=algolia&hide_border=true)
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phlipde)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phlipde&theme=algolia&hide_border=true)
 
 
 [discord]: discord:///users/547856031229935694
