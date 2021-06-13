@@ -61,6 +61,7 @@
   <summary>📊 Other Stats</summary>
   <!--START_SECTION:waka-->
 ```text
+  
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
@@ -72,6 +73,9 @@ No Activity tracked this Week
   <img src="https://img.shields.io/twitch/status/phlipde?style=flat-square" />
   <br />
 </details>
+
+-----
+
 
 [discord]: discord:///users/547856031229935694
 [youtube]: https://www.youtube.com/channel/UC7jgTSm-klMyWXtE59xOG-A/
