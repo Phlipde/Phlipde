@@ -4,7 +4,7 @@
 <br />
 
 ## 👤 About Me:
-- 👋 I'm a Student and I code in my Freetime
+- 👋 I'm a german student, I code in my freetime
 - 📖 I'm Learning a lots of things
 - 🤝 I'm helping People with Discordservers
 - 👨‍💻 Programming Languages I know are Python and JavaScript!
