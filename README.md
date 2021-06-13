@@ -1,9 +1,28 @@
-### Hey, I'm Philipp aka. Phlipde
+<h1 align="center"> Hey, I'm Philipp </h1>
+<h6 align="center"> aka. Phlipde </h6>
 
-## I'm a Student and I code in my Freetime
-- I'm helping People with Discordserver
-- I'm Programming Discord Bots
-- Programming Languages I know are Python and JavaScript
-- I can build Websites too.
+## 👤 About Me:
+- 👋 I'm a Student and I code in my Freetime
+- 📖 I'm Learning a lots of things
+- 🤝 I'm helping People with Discordservers
+- 👨‍💻 Programming Languages I know are Python and JavaScript!
+- 👀 Looking for Mates!
 
-## My Scocials:
+## 📺 My Socials:
+[<img align="left" alt="Phlipde | YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Phlipde | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Phlipde | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Phlipde#9023 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][discord]
+
+<br />
+
+## 📊 Some Stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phlipde&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phlipde)
+
+
+[discord]: discord:///users/547856031229935694
+[youtube]: https://www.youtube.com/channel/UC7jgTSm-klMyWXtE59xOG-A/
+[twitter]: https://twitter.com/phlipde/
+[instagram]: https://instagram.com/phlip.de/
