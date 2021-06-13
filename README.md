@@ -9,6 +9,7 @@
 - 🤝 I'm helping People with Discordservers
 - 👨‍💻 Programming Languages I know are Python and JavaScript!
 - 👀 Looking for Mates!
+- <br />
 
 ## 📺 My Socials:
 [<img align="left" alt="Phlipde | YouTube" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
