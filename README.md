@@ -17,6 +17,8 @@
 [<img align="left" alt="Phlipde#9023 | Discord" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
+<br />
+<br />
 
 ## 📊 Some Stats:
 
