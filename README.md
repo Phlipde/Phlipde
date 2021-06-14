@@ -14,7 +14,7 @@
 [<img alt="Phlipde | YouTube" src="https://img.shields.io/badge/Phlipde-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
 [<img alt="Phlipde | Twitter" src="https://img.shields.io/badge/Phlipde-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
 [<img alt="Phlipde | Instagram" src="https://img.shields.io/badge/Phlip.de-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
-[<img alt="Phlipde#9023 | Discord" src="https://img.shields.io/badge/Phlipde-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />](discord:///users/547856031229935694)
+[<img alt="Phlipde#9023 | Discord" src="https://img.shields.io/badge/Phlipde-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />][discord]
 <br />
 ### 📊 Some Stats:
 <!--START_SECTION:waka-->
@@ -80,4 +80,4 @@
 [youtube]: https://www.youtube.com/channel/UC7jgTSm-klMyWXtE59xOG-A/
 [twitter]: https://twitter.com/phlipde/
 [instagram]: https://instagram.com/phlip.de/
-[discord]: discord:///users/547856031229935694
+[discord]: https://discord.com/channels/@me/792531334106841169
