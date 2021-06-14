@@ -13,8 +13,9 @@
 ### 📺 My Socials:
 [<img alt="Phlipde | YouTube" src="https://img.shields.io/badge/Phlipde-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
 [<img alt="Phlipde | Twitter" src="https://img.shields.io/badge/Phlipde-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
-[<img alt="Phlipde | Instagram" src="https://img.shields.io/badge/Phlip.de-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
+[<img alt="Phlip.de | Instagram" src="https://img.shields.io/badge/Phlip.de-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 [<img alt="Phlipde#9023 | Discord" src="https://img.shields.io/badge/Phlipde-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />][discord]
+[<img alt="Phlipde | Twitch" src="https://img.shields.io/twitch/status/phlipde?color=6441a5&label=Twitch&logo=twitch&style=for-the-badge">][twitch]
 <br />
 ### 📊 Some Stats:
 <!--START_SECTION:waka-->
@@ -67,7 +68,8 @@
 <details>
   <summary>🧭 Some Dumb Stuff...</summary>
   <br />
-  <img alt="Twitch Status" src="https://img.shields.io/twitch/status/phlipde?color=%236441a5&label=Twitch&logo=Twitch&style=flat-square">
+  <img alt="Twitch Status" src="https://img.shields.io/twitch/status/phlipde?color=%236441a5&label=Twitch&logo=Twitch&style=flat-square" href="https://twitch.tv/phlipde
+">
   <img alt="Discord" src="https://img.shields.io/discord/698181577271672884?color=%235865F2&label=Discord&logo=Discord&logoColor=%235865F2&style=flat-square">
   <br />
 </details>
@@ -81,3 +83,4 @@
 [twitter]: https://twitter.com/phlipde/
 [instagram]: https://instagram.com/phlip.de/
 [discord]: https://discord.com/channels/@me/792531334106841169
+[twitch]: https://twitch.tv/phlipde
