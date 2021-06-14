@@ -1,6 +1,6 @@
 <h1 align="center"> Hey, I'm Philipp </h1>
 <h6 align="center"> aka. Phlipde </h6>
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=phlipde.phlipde" alt="visitor badge"/>
 
 ## 👤 About Me:
 - 👋 I'm a german student, I code in my freetime
