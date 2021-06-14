@@ -11,10 +11,10 @@
 - 👀 Looking for Mates!
 
 ### 📺 My Socials:
-[<img align="left" alt="Phlipde | YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Phlipde | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Phlipde | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Phlipde#9023 | Discord" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="Phlipde | YouTube" src="https://img.shields.io/badge/Phlipde-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
+[<img align="left" alt="Phlipde | Twitter" src="https://img.shields.io/badge/Phlipde-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
+[<img align="left" alt="Phlipde | Instagram" src="https://img.shields.io/badge/Phlip.de-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
+[<img align="left" alt="Phlipde#9023 | Discord" src="https://img.shields.io/badge/Phlipde#9023-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />][discord]
 
 <br />
 <br />
