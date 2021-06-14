@@ -1,4 +1,4 @@
-<h1 align="center"> Hey, I'm Philipp </h1>
+<h1 align="center">👋 Hey, I'm Philipp </h1>
 <h6 align="center"> aka. Phlipde </h6>
 <img  align="right" src="https://badges.pufler.dev/visits/phlipde/phlipde?style=flat-square&color=1199ff&labelColor=222222" />
 <img  align="right" src="https://badges.pufler.dev/years/phlipde?label=Account%20Age&style=flat-square&color=1199ff&labelColor=222222" />
