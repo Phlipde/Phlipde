@@ -1,6 +1,7 @@
 <h1 align="center"> Hey, I'm Philipp </h1>
 <h6 align="center"> aka. Phlipde </h6>
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=phlipde.phlipde" alt="visitor badge"/>
+<img  align="right" src="https://badges.pufler.dev/visits/phlipde/phlipde?style=flat-square&color=1199ff&labelColor=222222" />
+<img  align="right" src="https://badges.pufler.dev/years/phlipde?label=Account%20Age&style=flat-square&color=1199ff&labelColor=222222" />
 
 ## 👤 About Me:
 - 👋 I'm a german student, I code in my freetime
@@ -60,12 +61,12 @@ Markdown   1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 <details>
   <summary>📊 Other Stats</summary>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phlipde&show_icons=true&theme=algolia&hide_border=true)
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phlipde&theme=algolia&hide_border=true)
-
+  <br>
+<img src="https://github-readme-stats.vercel.app/api?username=phlipde&show_icons=true&theme=algolia&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phlipde&theme=algolia&hide_border=true&layout=compact" />
 <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=Phlipde&theme=github" />
+<img border-radius="25px" src="https://activity-graph.herokuapp.com/graph?username=Phlipde&theme=github&hide_border=true" />
+  <br>
 </details>
 
 <details>
@@ -77,6 +78,7 @@ Markdown   1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 </details>
 
 ***
+![Updated Badge](https://badges.pufler.dev/updated/phlipde/phlipde?style=flat-square&color=1199ff&labelColor=222222)
 
 
 [discord]: discord:///users/547856031229935694
