@@ -8,9 +8,8 @@
 - 🤝 I'm helping People with Discordservers
 - 👨‍💻 Programming Languages I know are Python and JavaScript!
 - 👀 Looking for Mates!
-<br />
 
-## 📺 My Socials:
+### 📺 My Socials:
 [<img align="left" alt="Phlipde | YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Phlipde | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Phlipde | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -18,26 +17,28 @@
 
 <br />
 <br />
-<br />
 
-## 📊 Some Stats:
+### 📊 Some Stats:
+  <!--START_SECTION:waka-->
+```text
+Markdown   1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+```
+<!--END_SECTION:waka-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phlipde&show_icons=true&theme=algolia&hide_border=true)
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phlipde&theme=algolia&hide_border=true)
+******
 
-<details>
+<details open>
   <summary>🗣 Languages I use:</summary>
   <br />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
+
   <br />
 </details>
 
-<details>
+<details open>
   <summary>👩‍💻 My Tools</summary>
   <br />
   <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
@@ -59,21 +60,23 @@
 
 <details>
   <summary>📊 Other Stats</summary>
-  <!--START_SECTION:waka-->
-```text
-Markdown   1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
-```
-<!--END_SECTION:waka-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phlipde&show_icons=true&theme=algolia&hide_border=true)
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phlipde&theme=algolia&hide_border=true)
+
+<br>
+<img src="https://activity-graph.herokuapp.com/graph?username=Phlipde&theme=github" />
 </details>
 
 <details>
   <summary>🧭 Some Dumb Stuff...</summary>
   <br />
-  <img src="https://img.shields.io/twitch/status/phlipde?style=flat-square" />
+  <img alt="Twitch Status" src="https://img.shields.io/twitch/status/phlipde?color=%236441a5&label=Twitch&logo=Twitch&style=flat-square">
+  <img alt="Discord" src="https://img.shields.io/discord/698181577271672884?color=%235865F2&label=Discord&logo=Discord&logoColor=%235865F2&style=flat-square">
   <br />
 </details>
 
------
+***
 
 
 [discord]: discord:///users/547856031229935694
