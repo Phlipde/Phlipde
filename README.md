@@ -41,7 +41,7 @@
 </details>
 
 <details open>
-  <summary My Tools</summary>
+  <summary> My Tools</summary>
   <br />
   <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
