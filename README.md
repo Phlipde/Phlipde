@@ -14,8 +14,13 @@
 [<img alt="Phlipde | YouTube" src="https://img.shields.io/badge/Phlipde-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
 [<img alt="Phlipde | Twitter" src="https://img.shields.io/badge/Phlipde-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
 [<img alt="Phlip.de | Instagram" src="https://img.shields.io/badge/Phlip.de-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
+[<img alt="Phlipde | Twitch" src="https://img.shields.io/badge/Phlipde-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/>][twitch]
+[<img alt="Phlipde | TikTok" src="https://img.shields.io/badge/Phlipde-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/>][tiktok]
+<br>
 [<img alt="Phlipde#9023 | Discord" src="https://img.shields.io/badge/Phlipde-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />][discord]
-[<img alt="Phlipde | Twitch" src="https://img.shields.io/twitch/status/phlipde?color=6441a5&label=Twitch&logo=twitch&style=for-the-badge">][twitch]
+[<img alt="Phlipde | Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>][steam]
+[<img alt="Phlipde | Epic Games" src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"/>][epic]
+[<img alt="Phlipde | Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
 <br />
 ### 📊 Some Stats:
 <!--START_SECTION:waka-->
@@ -31,6 +36,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
   <br />
 </details>
 
@@ -50,6 +56,12 @@
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+  <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=Repl.it&logoColor=white"/>
+  <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   
   <br />
 </details>
@@ -83,3 +95,7 @@
 [instagram]: https://instagram.com/phlip.de/
 [discord]: https://discord.com/channels/@me/792531334106841169
 [twitch]: https://twitch.tv/phlipde
+[tiktok]: https://github.com/Phlipde
+[epic]: https://github.com/Phlipde
+[steam]: https://github.com/Phlipde
+[spotify]: https://github.com/Phlipde
