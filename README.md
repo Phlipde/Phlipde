@@ -156,12 +156,12 @@ CSS                      1 repo              ███████████�
 
 
 
-[youtube]: https://www.youtube.com/channel/UC7jgTSm-klMyWXtE59xOG-A/ "Phlipde"
-[twitter]: https://twitter.com/phlipde/ "Phlipde"
+[youtube]: https://www.youtube.com/channel/UC7jgTSm-klMyWXtE59xOG-A/ " Phlipde "
+[twitter]: https://twitter.com/phlipde/ " Phlipde "
 [instagram]: https://instagram.com/phlip.de/ " Phlip.de "
 [discord]: https://discord.com/channels/@me/792531334106841169 " Phlipde#9023 "
-[twitch]: https://twitch.tv/phlipde "Phlipde"
-[tiktok]: https://tiktok.com/@phlipde "Phlipde"
+[twitch]: https://twitch.tv/phlipde " Phlipde "
+[tiktok]: https://tiktok.com/@phlipde " Phlipde "
 [epic]: ## " Name: Phlipde "
 [steam]: ## " Friend Code: 1041086826 "
-[spotify]: https://github.com/Phlipde "Phlipde"
+[spotify]: https://github.com/Phlipde " Phlipde "
