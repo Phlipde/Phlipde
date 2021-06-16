@@ -161,7 +161,7 @@ CSS                      1 repo              ███████████�
 [instagram]: https://instagram.com/phlip.de/
 [discord]: https://discord.com/channels/@me/792531334106841169
 [twitch]: https://twitch.tv/phlipde
-[tiktok]: https://github.com/Phlipde
-[epic]: https://github.com/Phlipde
-[steam]: https://github.com/Phlipde
+[tiktok]: https://tiktok.com/@phlipde
+[epic]: ## " Name: Phlipde "
+[steam]: ## " Friend Code: 1041086826 "
 [spotify]: https://github.com/Phlipde
