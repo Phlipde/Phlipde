@@ -159,7 +159,7 @@ CSS                      1 repo              ███████████�
 [youtube]: https://www.youtube.com/channel/UC7jgTSm-klMyWXtE59xOG-A/
 [twitter]: https://twitter.com/phlipde/
 [instagram]: https://instagram.com/phlip.de/
-[discord]: https://discord.com/channels/@me/792531334106841169
+[discord]: https://discord.com/channels/@me/792531334106841169 "Phlipde#9023"
 [twitch]: https://twitch.tv/phlipde
 [tiktok]: https://tiktok.com/@phlipde
 [epic]: ## " Name: Phlipde "
