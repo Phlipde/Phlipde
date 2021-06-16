@@ -21,6 +21,7 @@
 [<img alt="Phlipde | Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>][steam]
 [<img alt="Phlipde | Epic Games" src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"/>][epic]
 [<img alt="Phlipde | Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
+[<img alt="Xbox" src="https://img.shields.io/badge/Phlipde-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white"/>][xbox]
 <br />
 
 
@@ -165,3 +166,4 @@ CSS                      1 repo              ███████████�
 [epic]: ## " Name: Phlipde "
 [steam]: ## " Friend Code: 1041086826 "
 [spotify]: https://github.com/Phlipde " Phlipde "
+[xbox]: ## " Phlipde "
