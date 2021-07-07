@@ -149,7 +149,7 @@ Windows                  9 mins              ███████████�
 [youtube]: https://www.youtube.com/channel/UC7jgTSm-klMyWXtE59xOG-A/ " Phlipde "
 [twitter]: https://twitter.com/phlipde/ " Phlipde "
 [instagram]: https://instagram.com/phlip.de/ " Phlip.de "
-[discord]: https://discord.com/channels/@me/792531334106841169 " Phlipde#9023 "
+[discord]: https://discordapp.com/users/547856031229935694 " Phlipde#9023 "
 [twitch]: https://twitch.tv/phlipde " Phlipde "
 [tiktok]: https://tiktok.com/@phlipde " Phlipde "
 [epic]: ## " Name: Phlipde "
