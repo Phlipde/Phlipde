@@ -135,10 +135,24 @@ Windows                  9 mins              ███████████�
 
 <details>
   <summary>🧭 Some Dumb Stuff...</summary>
+ 
   <br />
+ 
+ 
   <img alt="Twitch Status" src="https://img.shields.io/twitch/status/phlipde?color=%236441a5&label=Twitch&logo=Twitch&style=flat-square" href="https://twitch.tv/phlipde
 ">
   <img alt="Discord" src="https://img.shields.io/discord/698181577271672884?color=%235865F2&label=Discord&logo=Discord&logoColor=%235865F2&style=flat-square">
+ 
+ 
+ <h5> Discord: </h6>
+ 
+ ![status](https://dev.discordprofiles.me/badge/status/547856031229935694?simple=true&style=flat-square&label=Currently)
+ ![playing](https://dev.discordprofiles.me/badge/playing/547856031229935694?simple=true&style=flat-square)
+ ![VsCode](https://dev.discordprofiles.me/badge/vscode/547856031229935694?simple=true&style=flat-square)
+[![Spotify](https://dev.discordprofiles.me/badge/spotify/547856031229935694?simple=true&style=flat-square)](https://dev.discordprofiles.me/openspotify/547856031229935694)
+ 
+ 
+ 
   <br />
 </details>
 
