@@ -66,7 +66,7 @@
 
 > 🏆 93 Contributions in the Year 2021
  > 
-> 📦 386 Bytes Used in Github's Storage 
+> 📦 389 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -118,7 +118,7 @@ Windows                  9 mins              ███████████�
 ```
 
 
- Last Updated on 07/07/2021
+ Last Updated on 08/07/2021
 <!--END_SECTION:waka-->
 
 ******
