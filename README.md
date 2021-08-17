@@ -66,7 +66,7 @@
 
 > 🏆 92 Contributions in the Year 2021
  > 
-> 📦 481 Bytes Used in Github's Storage 
+> 📦 484 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -114,7 +114,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 16/08/2021
+ Last Updated on 17/08/2021
 <!--END_SECTION:waka-->
 
 ******
