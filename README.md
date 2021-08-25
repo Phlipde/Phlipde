@@ -66,7 +66,7 @@
 
 > 🏆 94 Contributions in the Year 2021
  > 
-> 📦 944 Bytes Used in Github's Storage 
+> 📦 947 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -103,13 +103,13 @@ Sunday       25 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-JSON                     8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
