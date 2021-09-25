@@ -70,7 +70,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
