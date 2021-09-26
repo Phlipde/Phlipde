@@ -64,7 +64,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 96 Contributions in the Year 2021
+> 🏆 95 Contributions in the Year 2021
  > 
 > 📦 1.1 kB Used in GitHub's Storage 
  > 
@@ -116,7 +116,7 @@ Windows                  21 mins             ███████████�
 ```
 
 
- Last Updated on 25/09/2021
+ Last Updated on 26/09/2021
 <!--END_SECTION:waka-->
 
 ******
