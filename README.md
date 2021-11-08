@@ -4,6 +4,7 @@
 <img  align="right" src="https://badges.pufler.dev/years/phlipde?label=Account%20Age&style=flat-square&color=1199ff&labelColor=222222" />
 
 ## 👤 About Me:
+
 - 👋 I'm a german student, I code in my freetime
 - 📖 I'm Learning a lots of things
 - 🤝 I'm helping People with Discordservers
@@ -137,14 +138,15 @@ Windows                  5 hrs 20 mins       ███████████�
   <summary>🧭 Some Dumb Stuff...</summary>
  
   <br />
- 
+ <a href="https://discord.com/users/547856031229935694">
+  <img src="https://lanyard-profile-readme.vercel.app/api/547856031229935694?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+</a>
  
   <img alt="Twitch Status" src="https://img.shields.io/twitch/status/phlipde?color=%236441a5&label=Twitch&logo=Twitch&style=flat-square" href="https://twitch.tv/phlipde
 ">
   <img alt="Discord" src="https://img.shields.io/discord/698181577271672884?color=%235865F2&label=Discord&logo=Discord&logoColor=%235865F2&style=flat-square">
  
- 
- <h5> Discord: </h6>
+
  
  ![status](https://dev.discordprofiles.me/badge/status/547856031229935694?simple=true&style=flat-square&label=Currently)
  ![playing](https://dev.discordprofiles.me/badge/playing/547856031229935694?simple=true&style=flat-square)
