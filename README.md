@@ -61,13 +61,15 @@
 ### 📊 Some Stats:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2017%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 108 Contributions in the Year 2021
  > 
-> 📦 3.0 kB Used in GitHub's Storage 
+> 📦 3.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -104,8 +106,8 @@ Sunday       25 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-JavaScript               5 hrs 17 mins       █████████████████████░░░░   86.51% 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.72% 
+JavaScript               5 hrs 17 mins       █████████████████████░░░░   86.48% 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.75% 
 JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.24% 
 Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.45% 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
