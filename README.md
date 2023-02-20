@@ -106,20 +106,18 @@ Sunday           0 commits       ░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-JavaScript               5 mins              ███████████████████████░░   92.95 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 20/02/2023 00:53:39 UTC
+ Last Updated on 20/02/2023 02:16:04 UTC
 <!--END_SECTION:waka-->
 
 ******
