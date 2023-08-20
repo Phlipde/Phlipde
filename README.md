@@ -61,7 +61,7 @@
 ### 📊 Some Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-361.2%20thousand%20lines%20of%20code-blue)
 
@@ -73,7 +73,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 11 Public Repositories 
  > 
 > 🔑 8 Private Repositories 
  > 
@@ -116,7 +116,7 @@ Windows                  13 mins             ███████████�
 ```
 
 
- Last Updated on 20/08/2023 12:50:39 UTC
+ Last Updated on 20/08/2023 12:58:47 UTC
 <!--END_SECTION:waka-->
 
 ******
