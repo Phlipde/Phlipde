@@ -61,7 +61,7 @@
 ### 📊 Some Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-425.0%20thousand%20lines%20of%20code-blue)
 
@@ -116,7 +116,7 @@ Windows                  29 mins             ███████████�
 ```
 
 
- Last Updated on 11/02/2024 01:35:52 UTC
+ Last Updated on 12/02/2024 00:28:38 UTC
 <!--END_SECTION:waka-->
 
 ******
