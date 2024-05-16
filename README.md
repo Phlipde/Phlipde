@@ -18,7 +18,7 @@
 [<img alt="Phlipde | Twitch" src="https://img.shields.io/badge/Phlipde-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/>][twitch]
 [<img alt="Phlipde | TikTok" src="https://img.shields.io/badge/Phlipde-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/>][tiktok]
 <br>
-[<img alt="Phlipde#9023 | Discord" src="https://img.shields.io/badge/Phlipde-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />][discord]
+[<img alt="phlipde | Discord" src="https://img.shields.io/badge/Phlipde-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />][discord]
 [<img alt="Phlipde | Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>][steam]
 [<img alt="Phlipde | Epic Games" src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"/>][epic]
 [<img alt="Phlipde | Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
@@ -34,7 +34,7 @@
 <br />
 
 ### 💻 My Tools
-[<img alt="Friefox" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />][ph]
+[<img alt="Firefox" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />][ph]
 [<img alt="VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />][ph]
 [<img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />][ph]
 [<img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />][ph]
