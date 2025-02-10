@@ -69,6 +69,8 @@
 
 > 📦 13.5 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -102,19 +104,17 @@ Sunday                   37 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-HTML                     22 mins             ███████████████████████░░   93.13 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/02/2025 00:39:25 UTC
+ Last Updated on 10/02/2025 02:05:41 UTC
 <!--END_SECTION:waka-->
 
 ******
